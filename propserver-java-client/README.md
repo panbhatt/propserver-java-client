@@ -9,7 +9,7 @@ It provides the client API implementation for Property Manager server.
 
 ### Install
 
-    Soon will be available on MVN Repository, by that time please build a java on your own and include the JAR as a lib.
+    Soon will be available on MVN Repository, for time, please build yourself. 
 
 ## Introduction
 
